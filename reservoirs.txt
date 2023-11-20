@@ -1,0 +1,21 @@
+Reservoir: Ocean
+Width: 1000 meters
+Length: 2000 meters
+Max Depth: 50 meters
+Volume: 1e+08 cubic meters
+Surface Area: 2e+06 square meters
+
+Reservoir: Swimming Pool
+Width: 20 meters
+Length: 30 meters
+Max Depth: 2 meters
+Volume: 1200 cubic meters
+Surface Area: 600 square meters
+
+Reservoir: Fish Pond
+Width: 10 meters
+Length: 15 meters
+Max Depth: 1 meters
+Volume: 150 cubic meters
+Surface Area: 150 square meters
+
